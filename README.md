@@ -9,17 +9,14 @@
 
 <br />
 
-[![Run on Repl.it](https://repl.it/badge/github/CorwinDev/Discord-Bot)](https://replit.com/@CorwinDeveloper/Discord-Bot-v14?v=1)
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/CorwinDev/Discord-Bot)
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/corwindev/Discord-Bot">
+  <a href="https://github.com/Ryzen-Developper/Discord-Bot">
     <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055857473749274694/Corwin-1-modified.png" alt="Pbot-plus" width="200" height="200">
   </a>
 
-  <h3 align="center">Discord-Bot</h3>
+  <h3 align="center">KaiLee-Bot"</h3>
 
   <p align="center">
     Discord-bot is an updated version of <a href="https://github.com/DotwoodMedia/Dbot">Dbot</a>, an advanced Discord multipurpose bot containing more than 400 commands.<br> It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.<br> Unfortunately the owners stopped at the peak and decided to put the source online of which I made an updated version.
