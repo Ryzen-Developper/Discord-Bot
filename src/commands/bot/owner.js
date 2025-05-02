@@ -22,7 +22,7 @@ module.exports = async (client, interaction, args) => {
         },
         {
             name: "🌐┆Website",
-            value: `[https://kailee-bot.com](https://kailee-bot-com.vercel.app/)`,
+            value: `https://kailee-bot-com.vercel.app/`,
             inline: true,
         }],
         type: 'editreply'
