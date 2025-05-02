@@ -46,7 +46,7 @@ module.exports = async (client) => {
 
                         new Discord.ButtonBuilder()
                             .setLabel("Community Server")
-                            .setURL("https://discord.gg/jf6ZkpgsXF")
+                            .setURL("https://discord.com/invite/jrtZVfEefk")
                             .setStyle(Discord.ButtonStyle.Link),
                     );
 
